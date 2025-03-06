@@ -1,0 +1,21 @@
+body {
+  background-color: aquamarine;
+}
+
+p {
+  color: rgba(165, 42, 42, 0.562);
+  font-size: 30px;
+}
+
+h1.header {
+  font-size: 40px;
+}
+
+/* .grogu { */
+.smaller {
+  font-size: 20px;
+}
+
+a {
+  color: red;
+}
